@@ -10,9 +10,9 @@ using System.Threading.Tasks;
 
 namespace AuthLogService
 {
-	public partial class Service1 : ServiceBase
+	public partial class AuthLogService : ServiceBase
 	{
-		public Service1()
+		public AuthLogService()
 		{
 			InitializeComponent();
 		}

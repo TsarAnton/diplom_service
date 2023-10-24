@@ -1,6 +1,6 @@
 ﻿namespace AuthLogService
 {
-	partial class Service1
+	partial class AuthLogService
 	{
 		/// <summary> 
 		/// Обязательная переменная конструктора.
