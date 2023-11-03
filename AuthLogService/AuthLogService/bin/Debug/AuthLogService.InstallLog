@@ -35,3 +35,991 @@ System.Security.SecurityException: Источник не найден, но не
 Выполняется удаление источника EventLog AuthLogService.
 Выполняется удаление службы AuthLogService из системы...
 Служба AuthLogService успешно удалена из системы.
+Выполняется установка сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Устанавливается служба AuthLogService...
+Служба AuthLogService успешно установлена.
+Создается исходный EventLog AuthLogService в журнале Application...
+Выполняется фиксация сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Выполняется удаление сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Выполняется удаление источника EventLog AuthLogService.
+Выполняется удаление службы AuthLogService из системы...
+Служба AuthLogService успешно удалена из системы.
+Выполняется установка сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Устанавливается служба AuthLogService...
+Служба AuthLogService успешно установлена.
+Создается исходный EventLog AuthLogService в журнале Application...
+Выполняется фиксация сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Выполняется удаление сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Выполняется удаление источника EventLog AuthLogService.
+Выполняется удаление службы AuthLogService из системы...
+Служба AuthLogService успешно удалена из системы.
+Выполняется установка сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Устанавливается служба AuthLogService...
+Служба AuthLogService успешно установлена.
+Создается исходный EventLog AuthLogService в журнале Application...
+Выполняется фиксация сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Выполняется удаление сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Выполняется удаление источника EventLog AuthLogService.
+Выполняется удаление службы AuthLogService из системы...
+Служба AuthLogService успешно удалена из системы.
+Выполняется установка сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Устанавливается служба AuthLogService...
+Служба AuthLogService успешно установлена.
+Создается исходный EventLog AuthLogService в журнале Application...
+Выполняется фиксация сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Выполняется удаление сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Выполняется удаление источника EventLog AuthLogService.
+Выполняется удаление службы AuthLogService из системы...
+Служба AuthLogService успешно удалена из системы.
+Попытка останова службы AuthLogService.
+Выполняется удаление сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Выполняется удаление источника EventLog AuthLogService.
+Предупреждение. Источник AuthLogService не зарегистрирован на локальном компьютере.
+Выполняется удаление службы AuthLogService из системы...
+Служба AuthLogService успешно удалена из системы.
+Попытка останова службы AuthLogService.
+Выполняется установка сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Устанавливается служба AuthLogService...
+Создается исходный EventLog AuthLogService в журнале Application...
+Выполняется откат для сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Восстанавливается исходное состояние журнала событий для источника AuthLogService.
+При выполнении программы установки System.Diagnostics.EventLogInstaller на этапе отката возникло исключение.
+System.Security.SecurityException: Источник не найден, но не удалось выполнить поиск по нескольким или всем журналам событий.  Недоступные журналы: Security, State.
+На этапе отката процедуры установки возникло исключение. Это исключение будет проигнорировано, и откат будет продолжен. Однако после завершения отката компьютер может не вернуться полностью в исходное состояние.
+Выполняется установка сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Устанавливается служба AuthLogService...
+Служба AuthLogService успешно установлена.
+Создается исходный EventLog AuthLogService в журнале Application...
+Выполняется фиксация сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Выполняется удаление сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Выполняется удаление источника EventLog AuthLogService.
+Выполняется удаление службы AuthLogService из системы...
+Служба AuthLogService успешно удалена из системы.
+Попытка останова службы AuthLogService.
+Выполняется установка сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Устанавливается служба AuthLogService...
+Служба AuthLogService успешно установлена.
+Создается исходный EventLog AuthLogService в журнале Application...
+Выполняется фиксация сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Выполняется удаление сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Выполняется удаление источника EventLog AuthLogService.
+Выполняется удаление службы AuthLogService из системы...
+Служба AuthLogService успешно удалена из системы.
+Выполняется установка сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Устанавливается служба AuthLogService...
+Служба AuthLogService успешно установлена.
+Создается исходный EventLog AuthLogService в журнале Application...
+Выполняется фиксация сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Выполняется удаление сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Выполняется удаление источника EventLog AuthLogService.
+Выполняется удаление службы AuthLogService из системы...
+Служба AuthLogService успешно удалена из системы.
+Выполняется установка сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Устанавливается служба AuthLogService...
+Служба AuthLogService успешно установлена.
+Создается исходный EventLog AuthLogService в журнале Application...
+Выполняется фиксация сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Выполняется удаление сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Выполняется удаление источника EventLog AuthLogService.
+Выполняется удаление службы AuthLogService из системы...
+Служба AuthLogService успешно удалена из системы.
+Попытка останова службы AuthLogService.
+Выполняется установка сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Устанавливается служба AuthLogService...
+Служба AuthLogService успешно установлена.
+Создается исходный EventLog AuthLogService в журнале Application...
+Выполняется фиксация сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Выполняется удаление сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Выполняется удаление источника EventLog AuthLogService.
+Выполняется удаление службы AuthLogService из системы...
+Служба AuthLogService успешно удалена из системы.
+Выполняется установка сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Устанавливается служба AuthLogService...
+Служба AuthLogService успешно установлена.
+Создается исходный EventLog AuthLogService в журнале Application...
+Выполняется фиксация сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Выполняется установка сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Устанавливается служба AuthLogService...
+Создается исходный EventLog AuthLogService в журнале Application...
+Выполняется откат для сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Восстанавливается исходное состояние журнала событий для источника AuthLogService.
+Выполняется удаление сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Выполняется удаление источника EventLog AuthLogService.
+Выполняется удаление службы AuthLogService из системы...
+Служба AuthLogService успешно удалена из системы.
+Выполняется установка сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Устанавливается служба AuthLogService...
+Служба AuthLogService успешно установлена.
+Создается исходный EventLog AuthLogService в журнале Application...
+Выполняется фиксация сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Выполняется удаление сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Выполняется удаление источника EventLog AuthLogService.
+Выполняется удаление службы AuthLogService из системы...
+Служба AuthLogService успешно удалена из системы.
+Выполняется установка сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Устанавливается служба AuthLogService...
+Служба AuthLogService успешно установлена.
+Создается исходный EventLog AuthLogService в журнале Application...
+Выполняется фиксация сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Выполняется установка сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Устанавливается служба AuthLogService...
+Создается исходный EventLog AuthLogService в журнале Application...
+Выполняется откат для сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Восстанавливается исходное состояние журнала событий для источника AuthLogService.
+Выполняется удаление сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Выполняется удаление источника EventLog AuthLogService.
+Выполняется удаление службы AuthLogService из системы...
+Служба AuthLogService успешно удалена из системы.
+Выполняется установка сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Устанавливается служба AuthLogService...
+Служба AuthLogService успешно установлена.
+Создается исходный EventLog AuthLogService в журнале Application...
+Выполняется фиксация сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Выполняется удаление сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Выполняется удаление источника EventLog AuthLogService.
+Выполняется удаление службы AuthLogService из системы...
+Служба AuthLogService успешно удалена из системы.
+Выполняется установка сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Устанавливается служба AuthLogService...
+Служба AuthLogService успешно установлена.
+Создается исходный EventLog AuthLogService в журнале Application...
+Выполняется фиксация сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Выполняется установка сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Устанавливается служба AuthLogService...
+Создается исходный EventLog AuthLogService в журнале Application...
+Выполняется откат для сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Восстанавливается исходное состояние журнала событий для источника AuthLogService.
+Выполняется удаление сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Выполняется удаление источника EventLog AuthLogService.
+Выполняется удаление службы AuthLogService из системы...
+Служба AuthLogService успешно удалена из системы.
+Выполняется установка сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Устанавливается служба AuthLogService...
+Служба AuthLogService успешно установлена.
+Создается исходный EventLog AuthLogService в журнале Application...
+Выполняется фиксация сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Выполняется удаление сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Выполняется удаление источника EventLog AuthLogService.
+Выполняется удаление службы AuthLogService из системы...
+Служба AuthLogService успешно удалена из системы.
+Выполняется установка сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Устанавливается служба AuthLogService...
+Служба AuthLogService успешно установлена.
+Создается исходный EventLog AuthLogService в журнале Application...
+Выполняется фиксация сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Выполняется удаление сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Выполняется удаление источника EventLog AuthLogService.
+Выполняется удаление службы AuthLogService из системы...
+Служба AuthLogService успешно удалена из системы.
+Выполняется установка сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Устанавливается служба AuthLogService...
+Служба AuthLogService успешно установлена.
+Создается исходный EventLog AuthLogService в журнале Application...
+Выполняется фиксация сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Выполняется удаление сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Выполняется удаление источника EventLog AuthLogService.
+Выполняется удаление службы AuthLogService из системы...
+Служба AuthLogService успешно удалена из системы.
+Попытка останова службы AuthLogService.
+Выполняется установка сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Устанавливается служба AuthLogService...
+Служба AuthLogService успешно установлена.
+Создается исходный EventLog AuthLogService в журнале Application...
+Выполняется фиксация сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Выполняется удаление сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Выполняется удаление источника EventLog AuthLogService.
+Выполняется удаление службы AuthLogService из системы...
+Служба AuthLogService успешно удалена из системы.
+Попытка останова службы AuthLogService.
+Выполняется установка сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Устанавливается служба AuthLogService...
+Служба AuthLogService успешно установлена.
+Создается исходный EventLog AuthLogService в журнале Application...
+Выполняется фиксация сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Выполняется удаление сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Выполняется удаление источника EventLog AuthLogService.
+Выполняется удаление службы AuthLogService из системы...
+Служба AuthLogService успешно удалена из системы.
+Попытка останова службы AuthLogService.
+Выполняется установка сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Устанавливается служба AuthLogService...
+Служба AuthLogService успешно установлена.
+Создается исходный EventLog AuthLogService в журнале Application...
+Выполняется фиксация сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Выполняется удаление сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Выполняется удаление источника EventLog AuthLogService.
+Выполняется удаление службы AuthLogService из системы...
+Служба AuthLogService успешно удалена из системы.
+Выполняется установка сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Устанавливается служба AuthLogService...
+Служба AuthLogService успешно установлена.
+Создается исходный EventLog AuthLogService в журнале Application...
+Выполняется фиксация сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Выполняется удаление сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Выполняется удаление источника EventLog AuthLogService.
+Выполняется удаление службы AuthLogService из системы...
+Служба AuthLogService успешно удалена из системы.
+Попытка останова службы AuthLogService.
+Выполняется установка сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Устанавливается служба AuthLogService...
+Служба AuthLogService успешно установлена.
+Создается исходный EventLog AuthLogService в журнале Application...
+Выполняется фиксация сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Выполняется удаление сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Выполняется удаление источника EventLog AuthLogService.
+Выполняется удаление службы AuthLogService из системы...
+Служба AuthLogService успешно удалена из системы.
+Попытка останова службы AuthLogService.
+Выполняется установка сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Устанавливается служба AuthLogService...
+Служба AuthLogService успешно установлена.
+Создается исходный EventLog AuthLogService в журнале Application...
+Выполняется фиксация сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Выполняется установка сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Устанавливается служба AuthLogService...
+Создается исходный EventLog AuthLogService в журнале Application...
+Выполняется откат для сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Восстанавливается исходное состояние журнала событий для источника AuthLogService.
+Выполняется удаление сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Выполняется удаление источника EventLog AuthLogService.
+Выполняется удаление службы AuthLogService из системы...
+Служба AuthLogService успешно удалена из системы.
+Выполняется установка сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Устанавливается служба AuthLogService...
+Служба AuthLogService успешно установлена.
+Создается исходный EventLog AuthLogService в журнале Application...
+Выполняется фиксация сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Выполняется удаление сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Выполняется удаление источника EventLog AuthLogService.
+Выполняется удаление службы AuthLogService из системы...
+Служба AuthLogService успешно удалена из системы.
+Выполняется установка сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Устанавливается служба AuthLogService...
+Служба AuthLogService успешно установлена.
+Создается исходный EventLog AuthLogService в журнале Application...
+Выполняется фиксация сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Выполняется удаление сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Выполняется удаление источника EventLog AuthLogService.
+Выполняется удаление службы AuthLogService из системы...
+Служба AuthLogService успешно удалена из системы.
+Выполняется установка сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Устанавливается служба AuthLogService...
+Служба AuthLogService успешно установлена.
+Создается исходный EventLog AuthLogService в журнале Application...
+Выполняется фиксация сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Выполняется удаление сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Выполняется удаление источника EventLog AuthLogService.
+Выполняется удаление службы AuthLogService из системы...
+Служба AuthLogService успешно удалена из системы.
+Попытка останова службы AuthLogService.
+Выполняется установка сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Устанавливается служба AuthLogService...
+Служба AuthLogService успешно установлена.
+Создается исходный EventLog AuthLogService в журнале Application...
+Выполняется фиксация сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Выполняется удаление сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Выполняется удаление источника EventLog AuthLogService.
+Выполняется удаление службы AuthLogService из системы...
+Служба AuthLogService успешно удалена из системы.
+Попытка останова службы AuthLogService.
+Выполняется установка сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Устанавливается служба AuthLogService...
+Служба AuthLogService успешно установлена.
+Создается исходный EventLog AuthLogService в журнале Application...
+Выполняется фиксация сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Выполняется удаление сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Выполняется удаление источника EventLog AuthLogService.
+Выполняется удаление службы AuthLogService из системы...
+Служба AuthLogService успешно удалена из системы.
+Попытка останова службы AuthLogService.
+Выполняется удаление сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Выполняется удаление источника EventLog AuthLogService.
+Предупреждение. Источник AuthLogService не зарегистрирован на локальном компьютере.
+Выполняется удаление службы AuthLogService из системы...
+При выполнении программы установки System.ServiceProcess.ServiceInstaller во время установки возникло исключение.
+System.ComponentModel.Win32Exception: Указанная служба не установлена
+При удалении из системы возникло исключение. Это исключение будет проигнорировано, и удаление из системы будет продолжено. Однако после завершения удаления данное приложение может оказаться не полностью удаленным.
+Выполняется установка сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Устанавливается служба AuthLogService...
+Служба AuthLogService успешно установлена.
+Создается исходный EventLog AuthLogService в журнале Application...
+Выполняется фиксация сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Выполняется удаление сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Выполняется удаление источника EventLog AuthLogService.
+Выполняется удаление службы AuthLogService из системы...
+Служба AuthLogService успешно удалена из системы.
+Выполняется установка сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Устанавливается служба AuthLogService...
+Служба AuthLogService успешно установлена.
+Создается исходный EventLog AuthLogService в журнале Application...
+Выполняется фиксация сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Выполняется установка сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Устанавливается служба AuthLogService...
+Создается исходный EventLog AuthLogService в журнале Application...
+Выполняется откат для сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Восстанавливается исходное состояние журнала событий для источника AuthLogService.
+Выполняется удаление сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Выполняется удаление источника EventLog AuthLogService.
+При выполнении программы установки System.Diagnostics.EventLogInstaller во время установки возникло исключение.
+System.Security.SecurityException: Запрошенный доступ к реестру запрещен.
+При удалении из системы возникло исключение. Это исключение будет проигнорировано, и удаление из системы будет продолжено. Однако после завершения удаления данное приложение может оказаться не полностью удаленным.
+Выполняется удаление сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Выполняется удаление источника EventLog AuthLogService.
+Выполняется удаление службы AuthLogService из системы...
+Служба AuthLogService успешно удалена из системы.
+Попытка останова службы AuthLogService.
+Выполняется установка сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Устанавливается служба AuthLogService...
+Служба AuthLogService успешно установлена.
+Создается исходный EventLog AuthLogService в журнале Application...
+Выполняется фиксация сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Выполняется удаление сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Выполняется удаление источника EventLog AuthLogService.
+Выполняется удаление службы AuthLogService из системы...
+Служба AuthLogService успешно удалена из системы.
+Попытка останова службы AuthLogService.
+Выполняется установка сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Устанавливается служба AuthLogService...
+Служба AuthLogService успешно установлена.
+Создается исходный EventLog AuthLogService в журнале Application...
+Выполняется фиксация сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Выполняется удаление сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Выполняется удаление источника EventLog AuthLogService.
+Выполняется удаление службы AuthLogService из системы...
+Служба AuthLogService успешно удалена из системы.
+Выполняется установка сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Устанавливается служба AuthLogService...
+Служба AuthLogService успешно установлена.
+Создается исходный EventLog AuthLogService в журнале Application...
+Выполняется фиксация сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Выполняется установка сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Устанавливается служба AuthLogService...
+Создается исходный EventLog AuthLogService в журнале Application...
+Выполняется откат для сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Восстанавливается исходное состояние журнала событий для источника AuthLogService.
+Выполняется удаление сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Выполняется удаление источника EventLog AuthLogService.
+Выполняется удаление службы AuthLogService из системы...
+Служба AuthLogService успешно удалена из системы.
+Попытка останова службы AuthLogService.
+Выполняется установка сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Устанавливается служба AuthLogService...
+Служба AuthLogService успешно установлена.
+Создается исходный EventLog AuthLogService в журнале Application...
+Выполняется фиксация сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Выполняется удаление сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Выполняется удаление источника EventLog AuthLogService.
+Выполняется удаление службы AuthLogService из системы...
+Служба AuthLogService успешно удалена из системы.
+Попытка останова службы AuthLogService.
+Выполняется установка сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Устанавливается служба AuthLogService...
+Служба AuthLogService успешно установлена.
+Создается исходный EventLog AuthLogService в журнале Application...
+Выполняется фиксация сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Выполняется удаление сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Выполняется удаление источника EventLog AuthLogService.
+Выполняется удаление службы AuthLogService из системы...
+Служба AuthLogService успешно удалена из системы.
+Попытка останова службы AuthLogService.
+Выполняется установка сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Устанавливается служба AuthLogService...
+Служба AuthLogService успешно установлена.
+Создается исходный EventLog AuthLogService в журнале Application...
+Выполняется фиксация сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Выполняется удаление сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Выполняется удаление источника EventLog AuthLogService.
+Выполняется удаление службы AuthLogService из системы...
+Служба AuthLogService успешно удалена из системы.
+Попытка останова службы AuthLogService.
+Выполняется установка сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Устанавливается служба AuthLogService...
+Служба AuthLogService успешно установлена.
+Создается исходный EventLog AuthLogService в журнале Application...
+Выполняется фиксация сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Выполняется удаление сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Выполняется удаление источника EventLog AuthLogService.
+Выполняется удаление службы AuthLogService из системы...
+Служба AuthLogService успешно удалена из системы.
+Попытка останова службы AuthLogService.
+Выполняется установка сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Устанавливается служба AuthLogService...
+Служба AuthLogService успешно установлена.
+Создается исходный EventLog AuthLogService в журнале Application...
+Выполняется фиксация сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Выполняется установка сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Устанавливается служба AuthLogService...
+Создается исходный EventLog AuthLogService в журнале Application...
+Выполняется откат для сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Восстанавливается исходное состояние журнала событий для источника AuthLogService.
+Выполняется удаление сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Выполняется удаление источника EventLog AuthLogService.
+Выполняется удаление службы AuthLogService из системы...
+Служба AuthLogService успешно удалена из системы.
+Попытка останова службы AuthLogService.
+Выполняется установка сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Устанавливается служба AuthLogService...
+Служба AuthLogService успешно установлена.
+Создается исходный EventLog AuthLogService в журнале Application...
+Выполняется фиксация сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Выполняется удаление сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Выполняется удаление источника EventLog AuthLogService.
+Выполняется удаление службы AuthLogService из системы...
+Служба AuthLogService успешно удалена из системы.
+Выполняется установка сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+Устанавливается служба AuthLogService...
+Служба AuthLogService успешно установлена.
+Создается исходный EventLog AuthLogService в журнале Application...
+Выполняется фиксация сборки 'D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.InstallLog
+   assemblypath = D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
