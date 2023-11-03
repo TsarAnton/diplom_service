@@ -1,0 +1,11 @@
+D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe.config
+D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.exe
+D:\diplom\diplom_service\AuthLogService\AuthLogService\bin\Debug\AuthLogService.pdb
+D:\diplom\diplom_service\AuthLogService\AuthLogService\obj\Debug\AuthLogService.csproj.AssemblyReference.cache
+D:\diplom\diplom_service\AuthLogService\AuthLogService\obj\Debug\AuthLogService.csproj.SuggestedBindingRedirects.cache
+D:\diplom\diplom_service\AuthLogService\AuthLogService\obj\Debug\AuthLogService.AuthLogService.resources
+D:\diplom\diplom_service\AuthLogService\AuthLogService\obj\Debug\AuthLogService.ProjectInstaller.resources
+D:\diplom\diplom_service\AuthLogService\AuthLogService\obj\Debug\AuthLogService.csproj.GenerateResource.cache
+D:\diplom\diplom_service\AuthLogService\AuthLogService\obj\Debug\AuthLogService.csproj.CoreCompileInputs.cache
+D:\diplom\diplom_service\AuthLogService\AuthLogService\obj\Debug\AuthLogService.exe
+D:\diplom\diplom_service\AuthLogService\AuthLogService\obj\Debug\AuthLogService.pdb
